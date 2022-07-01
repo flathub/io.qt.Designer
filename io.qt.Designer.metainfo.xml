@@ -18,6 +18,9 @@
     <screenshot type="default">
       <image type="source">https://doc.qt.io/qt-6/images/designer-multiple-screenshot.png</image>
     </screenshot>
+    <screenshot>
+      <image type="source">https://doc.qt.io/qt-6/images/designer-screenshot.png</image>
+    </screenshot>
   </screenshots>
   <releases>
     <release version="6.3" date="2022-04-12" type="stable"/>
