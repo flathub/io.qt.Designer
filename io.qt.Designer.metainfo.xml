@@ -23,6 +23,7 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="6.4" date="2022-09-29" type="stable"/>
     <release version="6.3" date="2022-04-12" type="stable"/>
   </releases>
   <url type="homepage">https://www.qt.io/</url>
