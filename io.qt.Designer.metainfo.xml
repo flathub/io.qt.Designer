@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <component type="desktop">
-  <!--Created with jdAppdataEdit 3.3-->
+  <!--Created with jdAppStreamEdit 6.0-->
   <id>io.qt.Designer</id>
   <name>Qt Designer</name>
   <summary>Design GUIs for Qt applications</summary>
@@ -23,6 +23,7 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="6.5" date="2023-04-03" type="stable"/>
     <release version="6.4" date="2022-09-29" type="stable"/>
     <release version="6.3" date="2022-04-12" type="stable"/>
   </releases>
