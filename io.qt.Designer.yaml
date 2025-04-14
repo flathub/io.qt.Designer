@@ -1,6 +1,6 @@
 id: io.qt.Designer
 runtime: org.kde.Sdk
-runtime-version: "6.8"
+runtime-version: "6.9"
 sdk: org.kde.Sdk
 command: designer
 finish-args:
