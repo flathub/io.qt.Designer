@@ -2,7 +2,7 @@
 <component type="desktop-application">
   <!--Created with jdAppStreamEdit 9.2-->
   <id>io.qt.Designer</id>
-  <name>Qt Designer</name>
+  <name>Qt Widgets Designer</name>
   <summary>Design GUIs for Qt applications</summary>
   <summary xml:lang="de">Erstelle GUIs for Qt Anwendungen</summary>
   <developer id="org.qt-project">
@@ -12,8 +12,8 @@
   <project_license>LGPL-3.0-only</project_license>
   <project_group>Qt</project_group>
   <description>
-    <p>Qt Designer lets you created and edit .ui files for your Qt Widgets Application</p>
-    <p xml:lang="de">Mit Qt Designer kannst du .ui Dateien für deine Qt Anwendung erstellen und bearbeiten</p>
+    <p>Qt Widgets Designer lets you created and edit .ui files for your Qt Widgets Application</p>
+    <p xml:lang="de">Mit Qt Widgets Designer kannst du .ui Dateien für deine Qt Anwendung erstellen und bearbeiten</p>
   </description>
   <screenshots>
     <screenshot type="default">
